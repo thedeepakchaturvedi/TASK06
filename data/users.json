@@ -43,10 +43,10 @@
   },
   {
     "id": "7",
-    "name": "Kashmeera Raychoty",
-    "profileImage": "assets/images/Kashmeera.jpg",
-    "introduction": "I am a creative person and like to explore new things.",
-    "profileLink": "https://kashmeeraraychoty.github.io/Kashmeera-s-Portfolio/"
+    "name": "Kashmira R",
+    "profileImage": "assets/images/Kashmira.jpg",
+    "introduction": "I'm passionate to meet people, learn new things. I love challenges and interested in travelling.",
+    "profileLink": "#"
   },
   {
     "id": "8",
@@ -96,5 +96,12 @@
     "profileImage": "assets/images/Soumik.png",
     "introduction": "2x ICPC regionalist and first runner-up at Techsurf 2022.",
     "profileLink": "https://soumik43.github.io/Portfolio/"
+  },
+  {
+    "id": "15",
+    "name": "xyz",
+    "profileImage": "assets/images/Vibhuti.jpg",
+    "introduction": "I like playing cricket and travelling. I'm always focused on the task which I take at hand.",
+    "profileLink": "https://vibhi24.github.io/Personal-Website/"
   }
 ]
